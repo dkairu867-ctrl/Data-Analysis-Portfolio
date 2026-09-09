@@ -10,7 +10,7 @@ A Python-based data analysis project demonstrating the extraction, manipulation,
 
 ##  Interactive Notebook
 You can view the complete code, data tables, and visualizations directly in the Jupyter Notebook:
-[Open YourActualFileName.ipynb](YourActualFileName.ipynb)
+[Open TravelCX-Analysis.ipynb](TravelCX-Analysis.ipynb)
 
 ##  Key Business Insights
 1. **Average CLV by Tier:** Higher loyalty tiers (Platinum/Gold) generate significantly more lifetime value per customer.
@@ -21,5 +21,5 @@ You can view the complete code, data tables, and visualizations directly in the 
 ![CLV Analysis Chart](TravelCX_CLV_Analysis.png)
 
 ## Project Files
-- `TravelCX_CLV_Analysis.ipynb`: The complete, executable Jupyter Notebook containing SQL extraction, Pandas analysis, and visualizations in a single streamlined workflow.
+- `TravelCX-Analysis.ipynb`: The complete, executable Jupyter Notebook containing SQL extraction, Pandas analysis, and visualizations in a single streamlined workflow.
 - `TravelCX_CLV_Analysis.png`: Static export of the final visualization.
